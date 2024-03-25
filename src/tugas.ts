@@ -19,7 +19,7 @@ let score1: University = finalScore;
 score1("John", 80, 90);
 
 let score2: University = finalScore;
-score1("Jane", 60, 65);
+score2("Jane", 60, 65);
 
 let score3: University = finalScore;
-score1("Alice", 100, 85);
+score3("Alice", 100, 85);
