@@ -12,6 +12,6 @@ function finalScore(nama, nilai, kehadiran) {
 var score1 = finalScore;
 score1("John", 80, 90);
 var score2 = finalScore;
-score1("Jane", 60, 65);
+score2("Jane", 60, 65);
 var score3 = finalScore;
-score1("Alice", 100, 85);
+score3("Alice", 100, 85);
