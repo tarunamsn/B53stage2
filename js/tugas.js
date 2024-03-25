@@ -13,6 +13,6 @@ function finalScore(nama, nilai, kehadiran) {
 let score1 = finalScore;
 score1("John", 80, 90);
 let score2 = finalScore;
-score1("Jane", 60, 65);
+score2("Jane", 60, 65);
 let score3 = finalScore;
-score1("Alice", 100, 85);
+score3("Alice", 100, 85);
